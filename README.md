@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantathota23&label=Profile%20views&color=0e75b6&style=flat" alt="manikantathota23" /> </p>
-
 <p align="left"> <a href="https://twitter.com/manikan18148782" target="blank"><img src="https://img.shields.io/twitter/follow/manikan18148782?logo=twitter&style=for-the-badge" alt="manikan18148782" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce Website**
